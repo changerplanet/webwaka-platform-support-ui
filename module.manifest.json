@@ -1,0 +1,11 @@
+{
+  "moduleId": "webwaka_platform_support_ui",
+  "class": "platform",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-platform-support-ui",
+    "created": "2026-01-20"
+  }
+}
