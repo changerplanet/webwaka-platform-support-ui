@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-platform-support-ui",
+  "version": "0.1.0",
+  "description": "WebWaka platform module",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
